@@ -1,0 +1,40 @@
+﻿[
+    {
+        "id": 3,
+        "name": "Batman",
+        "universe": "DC",
+        "powerLevel": 75,
+        "strength": "Peak Human",
+        "speed": "High",
+        "intelligence": "Genius",
+        "durability": "Tactical",
+        "summary": "The Dark Knight of Gotham.",
+        "spotlightTitle": "Batman: Power Unleashed",
+        "spotlightDescription": "",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero3.png",
+            "large": "ms-appx:///Assets/hero3.png"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Wonder Woman",
+        "universe": "DC",
+        "powerLevel": 96,
+        "strength": "Extreme",
+        "speed": "High",
+        "intelligence": "High",
+        "durability": "Godlike",
+        "summary": "Amazon warrior.",
+        "spotlightTitle": "Wonder Woman: Power Unleashed",
+        "spotlightDescription": "",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero9.jpg",
+            "large": "ms-appx:///Assets/hero9.jpg"
+        }
+    }
+]

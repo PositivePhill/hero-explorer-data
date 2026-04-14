@@ -1,0 +1,181 @@
+﻿[
+    {
+        "id": 1,
+        "name": "Hulk",
+        "universe": "MARVEL",
+        "powerLevel": 100,
+        "strength": "Extreme",
+        "speed": "Medium",
+        "intelligence": "Low",
+        "durability": "Immortal",
+        "summary": "A gamma-powered titan whose strength increases with rage. Nearly unstoppable in combat.",
+        "spotlightTitle": "Hulk: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Hulk, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 100\n• Strength: Extreme\n• Speed: Medium\n• Intelligence: Low\n• Durability: Immortal\nA gamma-powered titan whose strength increases with rage. Nearly unstoppable in combat.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero1.jpg",
+            "large": "ms-appx:///Assets/hero1.jpg"
+        }
+    },
+
+    {
+        "id": 2,
+        "name": "Venom",
+        "universe": "MARVEL",
+        "powerLevel": 92,
+        "strength": "High",
+        "speed": "High",
+        "intelligence": "Medium",
+        "durability": "Regenerative",
+        "summary": "A symbiote anti-hero with enhanced strength, agility, and terrifying combat instincts.",
+        "spotlightTitle": "Venom: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Venom, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 92\n• Strength: High\n• Speed: High\n• Intelligence: Medium\n• Durability: Regenerative\nA symbiote anti-hero with enhanced strength, agility, and terrifying combat instincts.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero2.jpg",
+            "large": "ms-appx:///Assets/hero2.jpg"
+        }
+    },
+
+    {
+        "id": 4,
+        "name": "Spider-Man",
+        "universe": "MARVEL",
+        "powerLevel": 88,
+        "strength": "High",
+        "speed": "Extreme",
+        "intelligence": "High",
+        "durability": "High",
+        "summary": "A fast and agile hero with spider-sense and incredible reflexes.",
+        "spotlightTitle": "Spider-Man: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Spider-Man.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero4.png",
+            "large": "ms-appx:///Assets/hero4.png"
+        }
+    },
+
+    {
+        "id": 5,
+        "name": "Storm",
+        "universe": "MARVEL",
+        "powerLevel": 95,
+        "strength": "Medium",
+        "speed": "Medium",
+        "intelligence": "High",
+        "durability": "High",
+        "summary": "A mutant who controls weather.",
+        "spotlightTitle": "Storm: Power Unleashed",
+        "spotlightDescription": "",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero5.png",
+            "large": "ms-appx:///Assets/hero5.png"
+        }
+    },
+
+    {
+        "id": 6,
+        "name": "Loki",
+        "universe": "MARVEL",
+        "powerLevel": 90,
+        "strength": "Medium",
+        "speed": "Medium",
+        "intelligence": "Genius",
+        "durability": "High",
+        "summary": "God of mischief.",
+        "spotlightTitle": "Loki: Power Unleashed",
+        "spotlightDescription": "",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero6.jpg",
+            "large": "ms-appx:///Assets/hero6.jpg"
+        }
+    },
+
+    {
+        "id": 7,
+        "name": "Iron Man",
+        "universe": "MARVEL",
+        "powerLevel": 93,
+        "strength": "High",
+        "speed": "High",
+        "intelligence": "Genius",
+        "durability": "Armored",
+        "summary": "Tech genius hero.",
+        "spotlightTitle": "Iron Man: Power Unleashed",
+        "spotlightDescription": "",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero7.jpg",
+            "large": "ms-appx:///Assets/hero7.jpg"
+        }
+    },
+
+    {
+        "id": 8,
+        "name": "Phoenix",
+        "universe": "MARVEL",
+        "powerLevel": 100,
+        "strength": "Cosmic",
+        "speed": "Extreme",
+        "intelligence": "High",
+        "durability": "Immortal",
+        "summary": "Cosmic entity.",
+        "spotlightTitle": "Phoenix: Power Unleashed",
+        "spotlightDescription": "",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero8.png",
+            "large": "ms-appx:///Assets/hero8.png"
+        }
+    },
+
+    {
+        "id": 10,
+        "name": "Deadpool",
+        "universe": "MARVEL",
+        "powerLevel": 85,
+        "strength": "Medium",
+        "speed": "High",
+        "intelligence": "Medium",
+        "durability": "Regenerative",
+        "summary": "Chaotic mercenary.",
+        "spotlightTitle": "Deadpool: Power Unleashed",
+        "spotlightDescription": "",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero10.jpg",
+            "large": "ms-appx:///Assets/hero10.jpg"
+        }
+    },
+
+    {
+        "id": 11,
+        "name": "Captain America",
+        "universe": "MARVEL",
+        "powerLevel": 82,
+        "strength": "Peak Human",
+        "speed": "High",
+        "intelligence": "Tactical",
+        "durability": "High",
+        "summary": "Super soldier.",
+        "spotlightTitle": "Captain America: Power Unleashed",
+        "spotlightDescription": "",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero11.jpg",
+            "large": "ms-appx:///Assets/hero11.jpg"
+        }
+    }
+]
