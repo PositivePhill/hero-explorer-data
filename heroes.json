@@ -1,0 +1,230 @@
+﻿[
+    {
+        "id": 1,
+        "name": "Hulk",
+        "universe": "MARVEL",
+        "powerLevel": 100,
+        "strength": "Extreme",
+        "speed": "Medium",
+        "intelligence": "Low",
+        "durability": "Immortal",
+        "summary": "A gamma-powered titan whose strength increases with rage. Nearly unstoppable in combat.",
+        "spotlightTitle": "Hulk: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Hulk, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 100\n• Strength: Extreme\n• Speed: Medium\n• Intelligence: Low\n• Durability: Immortal\nA gamma-powered titan whose strength increases with rage. Nearly unstoppable in combat.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero1.jpg",
+            "large": "ms-appx:///Assets/hero1.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Venom",
+        "universe": "MARVEL",
+        "powerLevel": 92,
+        "strength": "High",
+        "speed": "High",
+        "intelligence": "Medium",
+        "durability": "Regenerative",
+        "summary": "A symbiote anti-hero with enhanced strength, agility, and terrifying combat instincts.",
+        "spotlightTitle": "Venom: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Venom, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 92\n• Strength: High\n• Speed: High\n• Intelligence: Medium\n• Durability: Regenerative\nA symbiote anti-hero with enhanced strength, agility, and terrifying combat instincts.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero2.jpg",
+            "large": "ms-appx:///Assets/hero2.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Batman",
+        "universe": "DC",
+        "powerLevel": 75,
+        "strength": "Peak Human",
+        "speed": "High",
+        "intelligence": "Genius",
+        "durability": "Tactical",
+        "summary": "The Dark Knight of Gotham. Uses strategy, technology, and skill to defeat powerful enemies.",
+        "spotlightTitle": "Batman: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Batman, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 75\n• Strength: Peak Human\n• Speed: High\n• Intelligence: Genius\n• Durability: Tactical\nThe Dark Knight of Gotham. Uses strategy, technology, and skill to defeat powerful enemies.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero3.png",
+            "large": "ms-appx:///Assets/hero3.png"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Spider-Man",
+        "universe": "MARVEL",
+        "powerLevel": 88,
+        "strength": "High",
+        "speed": "Extreme",
+        "intelligence": "High",
+        "durability": "High",
+        "summary": "A fast and agile hero with spider-sense and incredible reflexes.",
+        "spotlightTitle": "Spider-Man: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Spider-Man, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 88\n• Strength: High\n• Speed: Extreme\n• Intelligence: High\n• Durability: High\nA fast and agile hero with spider-sense and incredible reflexes.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero4.png",
+            "large": "ms-appx:///Assets/hero4.png"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Storm",
+        "universe": "MARVEL",
+        "powerLevel": 95,
+        "strength": "Medium",
+        "speed": "Medium",
+        "intelligence": "High",
+        "durability": "High",
+        "summary": "A mutant who controls weather, summoning lightning, storms, and powerful winds.",
+        "spotlightTitle": "Storm: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Storm, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 95\n• Strength: Medium\n• Speed: Medium\n• Intelligence: High\n• Durability: High\nA mutant who controls weather, summoning lightning, storms, and powerful winds.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero5.png",
+            "large": "ms-appx:///Assets/hero5.png"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Loki",
+        "universe": "MARVEL",
+        "powerLevel": 90,
+        "strength": "Medium",
+        "speed": "Medium",
+        "intelligence": "Genius",
+        "durability": "High",
+        "summary": "The god of mischief. Master of illusion, deception, and magical manipulation.",
+        "spotlightTitle": "Loki: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Loki, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 90\n• Strength: Medium\n• Speed: Medium\n• Intelligence: Genius\n• Durability: High\nThe god of mischief. Master of illusion, deception, and magical manipulation.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero6.jpg",
+            "large": "ms-appx:///Assets/hero6.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Iron Man",
+        "universe": "MARVEL",
+        "powerLevel": 93,
+        "strength": "High",
+        "speed": "High",
+        "intelligence": "Genius",
+        "durability": "Armored",
+        "summary": "A billionaire genius using advanced armor technology to protect the world.",
+        "spotlightTitle": "Iron Man: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Iron Man, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 93\n• Strength: High\n• Speed: High\n• Intelligence: Genius\n• Durability: Armored\nA billionaire genius using advanced armor technology to protect the world.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero7.jpg",
+            "large": "ms-appx:///Assets/hero7.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Phoenix",
+        "universe": "MARVEL",
+        "powerLevel": 100,
+        "strength": "Cosmic",
+        "speed": "Extreme",
+        "intelligence": "High",
+        "durability": "Immortal",
+        "summary": "A cosmic entity of fire and rebirth with near-limitless destructive power.",
+        "spotlightTitle": "Phoenix: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Phoenix, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 100\n• Strength: Cosmic\n• Speed: Extreme\n• Intelligence: High\n• Durability: Immortal\nA cosmic entity of fire and rebirth with near-limitless destructive power.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero8.png",
+            "large": "ms-appx:///Assets/hero8.png"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Wonder Woman",
+        "universe": "DC",
+        "powerLevel": 96,
+        "strength": "Extreme",
+        "speed": "High",
+        "intelligence": "High",
+        "durability": "Godlike",
+        "summary": "An Amazon warrior with divine strength, speed, and combat mastery.",
+        "spotlightTitle": "Wonder Woman: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Wonder Woman, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 96\n• Strength: Extreme\n• Speed: High\n• Intelligence: High\n• Durability: Godlike\nAn Amazon warrior with divine strength, speed, and combat mastery.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero9.jpg",
+            "large": "ms-appx:///Assets/hero9.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Deadpool",
+        "universe": "MARVEL",
+        "powerLevel": 85,
+        "strength": "Medium",
+        "speed": "High",
+        "intelligence": "Medium",
+        "durability": "Regenerative",
+        "summary": "A chaotic mercenary with rapid healing and unpredictable fighting style.",
+        "spotlightTitle": "Deadpool: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Deadpool, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 85\n• Strength: Medium\n• Speed: High\n• Intelligence: Medium\n• Durability: Regenerative\nA chaotic mercenary with rapid healing and unpredictable fighting style.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero10.jpg",
+            "large": "ms-appx:///Assets/hero10.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Captain America",
+        "universe": "MARVEL",
+        "powerLevel": 82,
+        "strength": "Peak Human",
+        "speed": "High",
+        "intelligence": "Tactical",
+        "durability": "High",
+        "summary": "A super soldier symbolizing leadership, courage, and justice.",
+        "spotlightTitle": "Captain America: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Captain America, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 82\n• Strength: Peak Human\n• Speed: High\n• Intelligence: Tactical\n• Durability: High\nA super soldier symbolizing leadership, courage, and justice.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero11.jpg",
+            "large": "ms-appx:///Assets/hero11.jpg"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Blue Angels",
+        "universe": "SPECIAL",
+        "powerLevel": 70,
+        "strength": "Aircraft",
+        "speed": "Extreme",
+        "intelligence": "Elite",
+        "durability": "Tactical",
+        "summary": "An elite flight team known for precision flying and high-speed aerial maneuvers.",
+        "spotlightTitle": "Blue Angels: Power Unleashed",
+        "spotlightDescription": "An action-packed spotlight feature highlighting Blue Angels, signature powers, major threats, and legendary moments from their story.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 70\n• Strength: Aircraft\n• Speed: Extreme\n• Intelligence: Elite\n• Durability: Tactical\nAn elite flight team known for precision flying and high-speed aerial maneuvers.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero12.jpg",
+            "large": "ms-appx:///Assets/hero12.jpg"
+        }
+    }
+]
