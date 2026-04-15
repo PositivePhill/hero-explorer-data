@@ -1,0 +1,97 @@
+﻿[
+    {
+        "id": 101,
+        "name": "Thanos",
+        "universe": "MARVEL",
+        "powerLevel": 100,
+        "strength": "Cosmic",
+        "speed": "High",
+        "intelligence": "Genius",
+        "durability": "Immortal",
+        "summary": "The Mad Titan seeking balance through destruction.",
+        "spotlightTitle": "Thanos: The Endgame",
+        "spotlightDescription": "A cosmic warlord wielding immense power and strategy to reshape the universe.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 100\n• Strength: Cosmic\n• Speed: High\n• Intelligence: Genius\n• Durability: Immortal\nA ruthless titan with near-limitless power.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero13.jpg",
+            "large": "ms-appx:///Assets/hero13.jpg"
+        }
+    },
+    {
+        "id": 102,
+        "name": "Joker",
+        "universe": "DC",
+        "powerLevel": 85,
+        "strength": "Low",
+        "speed": "Medium",
+        "intelligence": "Genius",
+        "durability": "Medium",
+        "summary": "A chaotic mastermind thriving on madness and destruction.",
+        "spotlightTitle": "Joker: Chaos Unleashed",
+        "spotlightDescription": "The Clown Prince of Crime, bringing chaos wherever he goes.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "Power Level: 85\n• Strength: Low\n• Speed: Medium\n• Intelligence: Genius\n• Durability: Medium\nA dangerous and unpredictable criminal genius.",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero14.png",
+            "large": "ms-appx:///Assets/hero14.png"
+        }
+    },
+    {
+        "id": 103,
+        "name": "Magneto",
+        "universe": "MARVEL",
+        "powerLevel": 97,
+        "strength": "High",
+        "speed": "Medium",
+        "intelligence": "Genius",
+        "durability": "High",
+        "summary": "Master of magnetism and mutant supremacy.",
+        "spotlightTitle": "Magneto: Magnetic Dominion",
+        "spotlightDescription": "A powerful mutant capable of controlling all metal.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero15.png",
+            "large": "ms-appx:///Assets/hero15.png"
+        }
+    },
+    {
+        "id": 104,
+        "name": "Green Goblin",
+        "universe": "MARVEL",
+        "powerLevel": 88,
+        "strength": "High",
+        "speed": "High",
+        "intelligence": "Genius",
+        "durability": "High",
+        "summary": "A tech-enhanced villain driven by madness.",
+        "spotlightTitle": "Green Goblin: Rise of Chaos",
+        "spotlightDescription": "A dangerous foe with advanced weapons and insanity.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero16.jpg",
+            "large": "ms-appx:///Assets/hero16.jpg"
+        }
+    },
+    {
+        "id": 105,
+        "name": "Darkseid",
+        "universe": "DC",
+        "powerLevel": 100,
+        "strength": "Godlike",
+        "speed": "High",
+        "intelligence": "Genius",
+        "durability": "Immortal",
+        "summary": "A god-like tyrant seeking total domination.",
+        "spotlightTitle": "Darkseid: Omega Force",
+        "spotlightDescription": "A cosmic ruler wielding the deadly Omega Beams.",
+        "soundFile": "ms-appx:///Assets/heroclick.wav",
+        "description": "",
+        "thumbnail": {
+            "small": "ms-appx:///Assets/hero17.jpg",
+            "large": "ms-appx:///Assets/hero17.jpg"
+        }
+    }
+]
